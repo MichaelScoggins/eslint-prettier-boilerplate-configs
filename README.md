@@ -1,3 +1,9 @@
+DO THIS FIRST!
+
+1. `npm i`
+2. Create .env file (for super secret passwords!)
+3. `npx install-peerdeps --dev eslint-config-airbnb`
+
 # Setup Boilerplate
 
 This repo is setup to begin working immediately with AirBNB code style rules, using ESLint for warnings and errors, Prettier as a formatter and configured for VS Code.
